@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-custom-nodes"
+description = "Nodes: RawText, RawTextCLIPEncode, RawTextCombine, RawTextReplace, Extension: m957ymj75urz.colors"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/m957ymj75urz/ComfyUI-Custom-Nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Custom-Nodes"
+Icon = ""
